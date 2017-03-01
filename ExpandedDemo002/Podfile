@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+
+target 'ExpandedDemo002' do
+
+pod 'HYBMasonryAutoCellHeight', '~> 2.0.1'
+
+
+
+end
